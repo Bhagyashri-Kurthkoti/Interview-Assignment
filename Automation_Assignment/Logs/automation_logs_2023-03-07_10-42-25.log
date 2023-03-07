@@ -1,0 +1,3 @@
+2023-03-07 10:42:29,291 - utilities.customLogger - INFO - Logging in with invalid credentials on Saucelabs
+2023-03-07 10:42:40,114 - utilities.customLogger - INFO - Logging with valid credentials successful
+2023-03-07 10:42:40,460 - utilities.customLogger - ERROR - Logging with invalid credentials failed

@@ -1,0 +1,4 @@
+2023-03-07 10:54:37,897 - utilities.customLogger - INFO - Signing up on Saucelabs
+2023-03-07 10:54:48,066 - utilities.customLogger - INFO - Selecting a random signup option
+2023-03-07 10:54:48,146 - utilities.customLogger - INFO - option selected is ['Sign up with email']
+2023-03-07 10:55:00,968 - utilities.customLogger - INFO - Sign Up with email successful

@@ -1,0 +1,14 @@
+2023-03-07 18:30:20,590 - utilities.customLogger - INFO - Logging in with invalid credentials on Saucelabs
+2023-03-07 18:30:21,236 - utilities.customLogger - INFO - Logging with invalid credentials successful
+2023-03-07 18:30:30,878 - utilities.customLogger - INFO - Ordering products
+2023-03-07 18:30:34,602 - utilities.customLogger - INFO - Validating product value
+2023-03-07 18:30:34,602 - utilities.customLogger - INFO - The price displayed $15.99 is equal to expected price $15.99
+2023-03-07 18:30:35,439 - utilities.customLogger - INFO - Validating cart value
+2023-03-07 18:30:35,449 - utilities.customLogger - INFO - The total price of the order (Total: $49.66) is equal to expected price (Total: $49.66)
+2023-03-07 18:30:35,553 - utilities.customLogger - INFO - Order Successful
+2023-03-07 18:30:44,611 - utilities.customLogger - INFO - Signing up on Saucelabs
+2023-03-07 18:30:55,170 - utilities.customLogger - INFO - Selecting a random signup option
+2023-03-07 18:30:55,170 - utilities.customLogger - INFO - option selected is ['Sign up with GitHub']
+2023-03-07 18:31:16,709 - utilities.customLogger - INFO - Sign Up with Github successful
+2023-03-07 18:31:23,288 - utilities.customLogger - INFO - Logging in with valid credentials on Saucelabs
+2023-03-07 18:31:23,807 - utilities.customLogger - INFO - Logged in successfully

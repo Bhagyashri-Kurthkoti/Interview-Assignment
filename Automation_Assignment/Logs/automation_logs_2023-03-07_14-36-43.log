@@ -1,0 +1,5 @@
+2023-03-07 14:36:47,210 - utilities.customLogger - INFO - Ordering products
+2023-03-07 14:36:50,595 - utilities.customLogger - INFO - Validating product value
+2023-03-07 14:36:50,595 - utilities.customLogger - INFO - The price displayed $15.99 is equal to expected price $15.99
+2023-03-07 14:36:51,127 - utilities.customLogger - INFO - Validating cart value
+2023-03-07 14:36:51,261 - utilities.customLogger - ERROR - The total price of the order (Total: $49.66) is not equal to expected price (Total: $49.63)

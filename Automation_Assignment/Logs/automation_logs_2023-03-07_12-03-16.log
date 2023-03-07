@@ -1,0 +1,4 @@
+2023-03-07 12:03:20,758 - utilities.customLogger - INFO - Signing up on Saucelabs
+2023-03-07 12:03:30,155 - utilities.customLogger - INFO - Selecting a random signup option
+2023-03-07 12:03:30,326 - utilities.customLogger - INFO - option selected is ['Sign up with Google']
+2023-03-07 12:03:47,190 - utilities.customLogger - ERROR - Invalid credentials , please try with valid credentials

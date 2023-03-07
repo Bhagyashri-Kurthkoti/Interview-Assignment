@@ -1,0 +1,14 @@
+2023-03-07 18:44:32,846 - utilities.customLogger - INFO - Logging in with invalid credentials on Saucelabs
+2023-03-07 18:44:33,369 - utilities.customLogger - INFO - Logging with invalid credentials successful
+2023-03-07 18:44:42,704 - utilities.customLogger - INFO - Ordering products
+2023-03-07 18:44:46,493 - utilities.customLogger - INFO - Validating product value
+2023-03-07 18:44:46,493 - utilities.customLogger - INFO - The price displayed $15.99 is equal to expected price $15.99
+2023-03-07 18:44:47,570 - utilities.customLogger - INFO - Validating cart value
+2023-03-07 18:44:47,571 - utilities.customLogger - INFO - The total price of the order (Total: $49.66) is equal to expected price (Total: $49.66)
+2023-03-07 18:44:47,737 - utilities.customLogger - INFO - Order Successful
+2023-03-07 18:44:57,462 - utilities.customLogger - INFO - Signing up on Saucelabs
+2023-03-07 18:45:07,407 - utilities.customLogger - INFO - Selecting a random signup option
+2023-03-07 18:45:07,559 - utilities.customLogger - INFO - option selected is ['Sign up with Google']
+2023-03-07 18:45:21,055 - utilities.customLogger - INFO - Sign Up with Google successful
+2023-03-07 18:45:27,590 - utilities.customLogger - INFO - Logging in with valid credentials on Saucelabs
+2023-03-07 18:45:28,072 - utilities.customLogger - INFO - Logged in successfully

@@ -1,0 +1,3 @@
+2023-03-07 14:34:20,662 - utilities.customLogger - INFO - Ordering products
+2023-03-07 14:34:24,023 - utilities.customLogger - INFO - Validating product value
+2023-03-07 14:34:24,221 - utilities.customLogger - ERROR - The price displayed ($15.99) is not equal to expected price ($15.96)

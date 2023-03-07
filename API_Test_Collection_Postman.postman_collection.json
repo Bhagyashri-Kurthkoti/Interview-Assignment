@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "8421666e-775e-46a3-8edc-cba33c334f99",
+		"name": "API_Test_Collection_Postman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create a New User",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "default"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 12345,\r\n    \"username\": \"testuser\",\r\n    \"firstName\": \"Bhagya\",\r\n    \"lastName\": \"Kurthkoti\",\r\n    \"email\": \"bhagyakurthkoti@example.com\",\r\n    \"password\": \"testpassword\",\r\n    \"phone\": \"1234567890\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "{{baseURL}}/user"
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "{{baseURL}}/user/testuser"
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "{{baseURL}}/user/testuser"
+			},
+			"response": []
+		}
+	]
+}
